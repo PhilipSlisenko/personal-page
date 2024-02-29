@@ -1,0 +1,12 @@
+{
+  "index": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Blog ↗",
+    "type": "page",
+    "href": "#",
+    "newWindow": true
+  }
+}
